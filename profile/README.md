@@ -4,10 +4,10 @@
 
 **Personal finance, built around one number — your savings rate.**
 
-[![Website](https://img.shields.io/badge/web-wiz3r.com-00d9ff?style=flat-square)](https://wiz3r.com)
-[![Trust](https://img.shields.io/badge/trust-%2Flegitimacy-00d9ff?style=flat-square)](https://wiz3r.com/trust)
-[![Security](https://img.shields.io/badge/security-AES--256--GCM%20·%20Plaid-00d9ff?style=flat-square)](https://wiz3r.com/security)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company%20Page-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/wiz3r)
+[![Website](https://img.shields.io/badge/web-wiz3r.com-00d9ff?style=flat-square&labelColor=141416)](https://wiz3r.com)
+[![Trust](https://img.shields.io/badge/trust-%2Flegitimacy-00d9ff?style=flat-square&labelColor=141416)](https://wiz3r.com/trust)
+[![Security](https://img.shields.io/badge/security-AES--256--GCM%20·%20Plaid-00d9ff?style=flat-square&labelColor=141416)](https://wiz3r.com/security)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company%20Page-00d9ff?style=flat-square&labelColor=141416&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/company/wiz3r)
 
 </div>
 
