@@ -76,4 +76,5 @@ Verify in the [Ontario Business Registry](https://www.appmybizaccount.gov.on.ca/
 - 📷 **Instagram** — [@wiz3rapp](https://www.instagram.com/wiz3rapp/)
 - 📘 **Facebook** — [wiz≡r](https://www.facebook.com/profile.php?id=61575402881454)
 - ✉️ **Support** — support@wiz3r.com
+- 📞 **Phone** — +1 (438) 799-4937
 - 🔒 **Security disclosures** — security@wiz3r.com
